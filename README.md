@@ -12,6 +12,6 @@ Some cool projects I've worked on:
 - [📝 kevinliu.me](https://kevinliu.me/posts/): a collection of Capture The Flag (security competition) writeups
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinL10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinL10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 Check out my [website](https://kevinliu.me/) for more details if you're interested or would like to reach out.
