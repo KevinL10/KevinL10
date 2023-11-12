@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm Kevin, a second-year Mathematics and Computer Science student at the [University of British Columbia](https://www.ubc.ca/). I currently work as a research assistant at [The Reliable, Secure, and Sustainable Software Lab](https://people.ece.ubc.ca/mjulia/ReSeSS.html) and captain UBC's Capture The Flag Team, [Maple Bacon](https://maplebacon.org/).
+I'm Kevin, a third-year Mathematics and Computer Science student at the [University of British Columbia](https://www.ubc.ca/). I’m currently working in software/finance at [BMO Capital Markets](https://capitalmarkets.bmo.com/en/) and will be interning at Twitter in January. Previously, I’ve tinkered at early-stage startups and explored cybersecurity research at [The Reliable, Secure, and Sustainable Software Lab](https://people.ece.ubc.ca/mjulia/ReSeSS.html).
 
 
 Some cool projects I've worked on:
