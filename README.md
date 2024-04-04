@@ -5,9 +5,9 @@ I'm Kevin, a third-year Mathematics and Computer Science student at the [Univers
 Some projects I've worked on:
 - [⚔️ Blade](https://github.com/KevinL10/blade): automated vulnerability and exploitation agent for cryptography challenges in CTFs
 - [💡 Raytracer](https://github.com/KevinL10/raytracer): a lightweight raytracer in Rust
-- [🐝 Bumblebee](https://github.com/KevinL10/bumblebee): Vision Transformers running locally in the browser with Rust + WASM ❤️
+- [🐝 Bumblebee](https://github.com/KevinL10/bumblebee): image classification on the web with vision transformers and WASM
 - [🌐 Browser](https://github.com/KevinL10/browser): a web browser built from scratch
-- [🎄 Advent of Code](https://github.com/KevinL10/advent-of-code): solutions to the annual Advent of Code challenge, where I've placed top 150 in both 2021 and 2022
+- [🎄 Advent of Code](https://github.com/KevinL10/advent-of-code): solutions to the annual Advent of Code challenge
 - [📝 kevinliu.me](https://kevinliu.me/posts/): personal blog
 
 
