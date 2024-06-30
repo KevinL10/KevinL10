@@ -1,6 +1,7 @@
 ### Hi!
 
-I'm Kevin, a third-year Mathematics and Computer Science student at the [University of British Columbia](https://www.ubc.ca/). I currently work on search and trends at Twitter; previously captained UBC's cybersecurity team [Maple Bacon](https://maplebacon.org/).
+I'm Kevin. I currently study at the University of British Columbia and fix bugs at [Sentry](https://sentry.io/). On the side, I’m working on [Vulnix](https://vulnix.dev/) and [CTF Search](https://ctfsearch.com/).
+
 
 Some projects I've worked on:
 - [⚔️ Blade](https://github.com/KevinL10/blade): automated vulnerability and exploitation agent for cryptography challenges in CTFs
